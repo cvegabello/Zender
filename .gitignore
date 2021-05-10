@@ -1,0 +1,13 @@
+/transferWinnerFilesJackpotSSH_SFTP/*.vbproj
+/transferWinnerFilesJackpotSSH_SFTP/*.vbproj.user
+/transferWinnerFilesJackpotSSH_SFTP/My Project/
+/transferWinnerFilesJackpotSSH_SFTP/bin/
+/transferWinnerFilesJackpotSSH_SFTP/Resources/
+/transferWinnerFilesJackpotSSH_SFTP/obj/
+/transferWinnerFilesJackpotSSH_SFTP/*.ico
+/transferWinnerFilesJackpotSSH_SFTP/*.png
+/transferWinnerFilesJackpotSSH_SFTP/*.gif
+/transferWinnerFilesJackpotSSH_SFTP/*.jpg
+/transferWinnerFilesJackpotSSH_SFTP/*.resx
+*.sln
+*.suo
